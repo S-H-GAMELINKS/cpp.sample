@@ -1,5 +1,5 @@
 // Template Initializer List Sample
-// Compile to "g++ template_initializer_list_lambda.cpp -std=c++17"
+// Compile to "g++ template_initializer_list_lambda.cpp -std=c++17" and GCC 8.1.0
 #include <iostream>
 #include <vector>
 #include <functional>
