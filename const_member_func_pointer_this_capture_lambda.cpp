@@ -9,7 +9,7 @@ struct Hoge {
         func();
     }
     
-    const void hello() {
+    void hello() const {
         std::cout << "Hello C++" << std::endl;   
     }
 };
